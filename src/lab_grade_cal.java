@@ -15,7 +15,15 @@ public class lab_grade_cal {
             else if (score >=70 && score <=79){
                     grade  = 'C';
             }
+                 else if (score >=60 && score <=69){
+                    grade  = 'D';
+            } 
+                 else if (score >=0 && score <=59){
+                    grade  = 'F';
+            }
+            
             else if (score <=0 || score >100){
+                 grade = 'O';
             System.out.println("invalid input");
         }
 
