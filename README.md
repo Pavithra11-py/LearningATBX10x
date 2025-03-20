@@ -21,6 +21,18 @@
 | Project#2 Restful-book | Implemented a RESTful API for book management |
 | Test Cases for Restful-Booker | Created test cases in an Excel sheet for API testing |
 
+## API Testing Topics Covered
+
+- **Postman Basics**
+- **CRUD Operations (Create, Read, Update, Delete)**
+- **Postman Collection & Environment Variables**
+- **Newman CLI for Running Collections**
+- **Data-Driven Testing in Postman**
+- **API Authentication & Authorization**
+- **Automating API Tests in Postman**
+- **Response Validation & Assertions**
+- **Working with Pre-request & Test Scripts**
+
 ## Tools Used
 - Java
 - Postman
@@ -29,4 +41,3 @@
 - Excel for test case documentation
 
 This repository contains my Java learning progress and API projects. More updates will be added as I continue to learn and practice new concepts!
-
